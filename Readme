@@ -1,0 +1,38 @@
+Apk's
+	Contains Amazon apk shared in google drive
+	
+bin
+    Contain compiled code
+    
+Input
+	Contain app properties
+	
+libs
+	Contain libraries(appium,selenium,jxl)
+
+src 
+	Contain src files
+	
+/src/com/amazon/telstra
+
+Login.java
+	Contains Login releated code
+	
+ProductData.java
+	Contains Product data code
+
+Search.java
+	Contains Search of item and adding it
+
+Utility.java
+	Contains all utility functions like click swipe etc.
+	
+/src/com/amazon/telstra/test
+
+LoginTest.java
+	Contains Test related to login
+	
+SearchProductTest.java
+	Contains Search product and verify the product
+	
+	
